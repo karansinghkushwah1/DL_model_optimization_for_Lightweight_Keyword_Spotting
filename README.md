@@ -4,7 +4,7 @@
 - Karan Singh Kushwah
 
 ## Code Files
-1. [Embedded Project Model1 CNN](#)
+1. [Embedded Project Model1 CNN](#https://github.com/karansinghkushwah1/DL_model_optimization_for_Lightweight_Keyword_Spotting/blob/main/Embedded_project_MODEL1_CNN.ipynb)
 2. [Embedded Project Model2 DNN](#)
 3. [ELU Activation Function With Optimizer Experiment](#)
 4. [ReLu Activation Function With Optimizer Experiment](#)
